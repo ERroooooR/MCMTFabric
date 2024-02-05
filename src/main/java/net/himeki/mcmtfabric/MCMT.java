@@ -15,6 +15,7 @@ import net.minecraft.util.ActionResult;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+
 public class MCMT implements ModInitializer {
     public static final Logger LOGGER = LogManager.getLogger();
     public static GeneralConfig config;
